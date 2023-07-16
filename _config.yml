@@ -42,10 +42,11 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
+  - title: Study Notes
+    url: /blogs/    
+  - title: Daily Life
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
