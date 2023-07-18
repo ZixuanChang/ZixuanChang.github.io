@@ -11,8 +11,9 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/蔡汉霖
 <br>
 
 ## Education Background
+- **Sep 2023 - June 2026:** Chemical Engineering, Institute of Process Engineering, CAS (Master's Degree)
 - **Sep 2019 - July 2023:** Chemical Engineering, Xi'an Jiaotong University (Bachelor's Degree)
-- **Sep 2023 - June 2026:** Chemical engineering, Institute of Process Engineering, CAS (Master's Degree)
+
 
 
 <br>
@@ -21,11 +22,14 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/蔡汉霖
 
 ## Research Interests
 
-- Process system engineering
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Modeling, Optimizion, Integration, and Design of Energy Systems
+- Machine Learning and Intelligent Decision-making
+- Hybrid Modeling and Global Optimization on Nonconvex and Nonlinear system
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+As is known to all, process and energy systems ususlly are nonconvex and nonlinear systems. The research direction mentioned above aims at designing and integrating systems with hybrid modeling, artificial intelligence, and global optimization methods. **My current research focuses on designing heat exchanger networks (HEN) with Monte Carlo Tree Search (MCTS).**
+
+
 
 
 
