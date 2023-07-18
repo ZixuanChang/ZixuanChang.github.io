@@ -15,8 +15,8 @@ P.S., click the hyperlink title to access the source.<br>
 #### [Multi-objective optimization modeling of heat exchange network and development of optimization software for methanol synthesis plant](https://zixuanchang.github.io/project/HEN/zzx-s_project.zip)
 **Time**: November 2022 - June 2023\
 **Coming from**: Undergraduate Thesis and Horizontal project from Yingde Gas Group Co., Ltd\
-**Contributions**: Independently completed\ 
-**Supervisor**: [Prof. Guilian Liu](https://gr.xjtu.edu.cn/en/web/guilianliui/home?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_state_rcv=1)\
+**Contributions**: Independently completed  
+**Supervisor**: [Prof. Guilian Liu](https://gr.xjtu.edu.cn/en/web/guilianliui/home)  
 **Thesis Score**: A [Top1%]
 <center>
 <img src="/project/HEN/post1.PNG">
