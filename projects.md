@@ -20,14 +20,13 @@ P.S., click the hyperlink title to access the source.<br>
 **Thesis Score**: A [Top1%]
 <center>
 <img src="/project/HEN/post.PNG">
-
 </center>
 <br>
 
 #### [Design of Island Integrated Energy Storage System](https://zixuanchang.github.io/project/island/course_project.pdf)
 **Time**: March 2022 - July 2022  
 **Coming From**: Course Project  
-**Contributions**: Leader and optimization algorithm for power grid dispatch  
+**Contributions**: Leader, Optimization algorithm for power grid dispatch  
 **Teacher**: [Prof. Yongzhong Liu](https://gr.xjtu.edu.cn/en/web/yzliu)  
 **Course Score**: 90 [Ranking 1st]
 <center>
@@ -35,10 +34,29 @@ P.S., click the hyperlink title to access the source.<br>
 </center>
 <br>
 
-#### [Design of a chemical plant with an annual production of 150000 tons of 1,4-butanediol](0)
-**Time**: March 2022 - July 2022
-#### [Development of RSHEN Integration - Coupled Optimization Software for Reactors, Separators, and Heat Exchanger Networks and Energy Saving Optimization of Olefin Separation Plants](0)
-**Time**: November 2021 - June 2022
+#### [Design of a chemical plant with an annual production of 150000 tons of 1,4-butanediol](https://zixuanchang.github.io/project/ChemE/zzx-s_project.zip)
+**Time**: March 2022 - July 2022  
+**Coming From**: National College Student Chemical Design Competition  
+**Contributions**: Leader, Equipment design and energy-saving optimization of HEN  
+**Award**: Third Prize in Northwest Division  
+**Advisor**: Prof. Simin Wang and A.P. Zheqing Huang
+<center>
+<img src="/project/ChemE/post.PNG">
+</center>
+<br>
+
+#### [Development of RSHEN Integration - Coupled Optimization Software for Reactors, Separators, and Heat Exchanger Networks and Energy Saving Optimization of Olefin Separation Plants](https://zixuanchang.github.io/project/RSHEN/zzx-s_project.zip)
+**Time**: November 2021 - June 2022   
+**Coming From**: National College Student Energy Conservation and Emission Reduction Competition  
+**Contributions**: Development of the softwear  
+**Award**: Excellence Award of Xi'an Jiaotong University  
+**Advisor**: Prof. Guilian Liu
+<center>
+<img src="/project/RSHEN/post.jpg">
+</center>
+<br>
+
+
 #### [Model Analysis of Catalyst and Temperature Effects on Yield in Ethanol to C4 Olefins Production](0)
 **Time**: September 2021
 #### [Mathematical model of hepatitis B virus infection based on catalytic model and SEIR model](0)
