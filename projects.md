@@ -58,7 +58,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 
 #### [Model Analysis of Catalyst and Temperature Effects on Yield in Ethanol to C4 Olefins Production](https://zixuanchang.github.io/project/C4/zzx-modeling_compitition.pdf)
-**Time**: September 2021
+**Time**: September 2021  
 **Coming From**: National College Student Mathematical Modeling Competition  
 **Contributions**: Modeling and Programming  
 **Award**: Second Prize of Shaanxi Province  
