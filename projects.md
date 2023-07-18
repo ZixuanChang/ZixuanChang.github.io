@@ -19,16 +19,16 @@ P.S., click the hyperlink title to access the source.<br>
 **Supervisor**: [Prof. Guilian Liu](https://gr.xjtu.edu.cn/en/web/guilianliui/home)  
 **Thesis Score**: A [Top1%]
 <center>
-<img src="/project/HEN/post1.PNG">
-<img src="/project/HEN/post2.PNG">
+<img src="/project/HEN/post.PNG">
+
 </center>
 <br>
 
 #### [Design of Island Integrated Energy Storage System](https://zixuanchang.github.io/project/island/course_project.pdf)
-**Time**: March 2022 - July 2022
-**Coming From**: Course Project
-**Contributions**: Leader and optimization algorithm for power grid dispatch
-**Teacher**: [Prof. Yongzhong Liu](https://gr.xjtu.edu.cn/en/web/yzliu)
+**Time**: March 2022 - July 2022  
+**Coming From**: Course Project  
+**Contributions**: Leader and optimization algorithm for power grid dispatch  
+**Teacher**: [Prof. Yongzhong Liu](https://gr.xjtu.edu.cn/en/web/yzliu)  
 **Course Score**: 90 [Ranking 1st]
 <center>
 <img src="/project/island/post.PNG">
