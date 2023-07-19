@@ -67,10 +67,32 @@ P.S., click the hyperlink title to access the source.<br>
 </center>
 <br>
 
-#### [Mathematical model of hepatitis B virus infection based on catalytic model and SEIR model](0)
-**Time**: August  2021
-#### [Establishment of a Model for Droplet Spreading Problem and Its Numerical Simulation and Analysis](0)
-**Time**: July 2021
-#### [Preparation of a novel self-healing flexible electrolyte and its design and application in new concept flexible ultra-thin lithium batteries](0)
-**Time**: November 2020 - June 2021
+#### [Mathematical model of hepatitis B virus infection based on catalytic model and SEIR model](https://zixuanchang.github.io/project/B/zzx-s_virus-B.pdf)
+**Time**: August  2021  
+**Coming From**: Intramural trial of National College Student Mathematical Modeling Competition  
+**Contributions**: Modeling and Programming  
+<center>
+<img src="/project/B/post.png">
+</center>
+<br>
+
+#### [Establishment of a Model for Droplet Spreading Problem and Its Numerical Simulation and Analysis](https://zixuanchang.github.io/project/Fluid/zzx-fluid_simulation.pdf)
+**Time**: July 2021  
+**Coming From**: Intramural trial of National College Student Mathematical Modeling Competition  
+**Contributions**: Modeling and Programming  
+<center>
+<img src="/project/Fluid/post.png">
+</center>
+<br>
+
+#### [Preparation of a novel self-healing flexible electrolyte and its design and application in new concept flexible ultra-thin lithium batteries](https://zixuanchang.github.io/project/battery/zzx-s_project.zip)
+**Time**: November 2020 - June 2021  
+**Coming From**: National College Student Innovation and Entrepreneurship Training Project Funding and National College Student Energy Conservation and Emission Reduction Competition  
+**Contributions**: Experiment Design and Conduct
+**Award**: Approved national level innovation project with a fund of ￥10000  
+**Advisor**: Prof. Mingtao Li  
+<center>
+<img src="/project/battery/post.png">
+</center>
+<br>
 
