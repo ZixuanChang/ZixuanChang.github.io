@@ -21,13 +21,13 @@ title: Awards
 
 ## Competitions
 
-- August 2022：**Excellent Award of XJTU** in National College Student Energy Conservation and Emission Reduction Competition  
+- September 2022：**Excellent Award of XJTU** in National College Student Energy Conservation and Emission Reduction Competition  
 <center>
 <img src="/honor/3.jpg">
 </center>
 <br>
 
-- September 2022：**Third Prize in Northwest Division** in National College Student Chemical Design Competition  
+- August 2022：**Third Prize in Northwest Division** in National College Student Chemical Design Competition  
 <center>
 <img src="/honor/4.jpg">
 </center>
@@ -65,3 +65,16 @@ Lastest Update: 21th July 2023
 
 |<img src="/honor/5.jpg">|11111111111111111111111111111|
 |--|----|
+<div style="column-count: 2">
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</br>
+</div>
+
+<div style=\"float: left; width: 50%;\">
+        <h4>左栏</h4>
+        <p>内容1</p>
+</div>
+     
+<div style=\"margin-left: 50%;\">
+        <h4>右栏</h4>
+        <p>内容2</p>
+</div>
