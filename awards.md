@@ -79,3 +79,8 @@ Lastest Update: 21th July 2023
         <h4>右栏</h4>  
         <p>内容2</p>  
 </div>  
+
+<img src="https://zixuanchang.github.io/yinshuisiyuan.jpg" class="floatpic" width="480" height="360">
+<font color="red">这是红色字体</font>
+
+#### 1231331
