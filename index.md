@@ -26,7 +26,7 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/蔡汉霖
 
 - Modeling, Optimizion, Integration, and Design of Energy Systems
 - Machine Learning and Intelligent Decision-making
-- Hybrid Modeling and Global Optimization on Nonconvex and Nonlinear system
+- Hybrid Modeling and Derivative-free Optimization on Nonconvex and Nonlinear system
 
 
 As is known to all, process and energy systems ususlly are nonconvex and nonlinear systems. The research direction mentioned above aims at designing and integrating systems with hybrid modeling, artificial intelligence, and global optimization methods. **My current research focuses on designing heat exchanger networks (HEN) with Monte Carlo Tree Search (MCTS).**
