@@ -6,13 +6,13 @@ title: Awards
 
 ## Scholarships
 
-- December 2021：Jizhi First Prize Scholarship  
+- December 2021：**Jizhi First Prize Scholarship**  
 <center>
 <img src="/honor/1.jpg">
 </center>
 <br>
 
-- December 2020: Third Prize Scholarship of Xi'an Jiaotong University
+- December 2020: **Third Prize Scholarship of Xi'an Jiaotong University**
 <center>
 <img src="/honor/2.jpg">
 </center>
@@ -63,5 +63,5 @@ title: Awards
 
 Lastest Update: 21th July 2023
 
-|<img src="/honor/5.jpg">|1111|
+|<img src="/honor/5.jpg">|11111111111111111111111111111|
 |--|----|
