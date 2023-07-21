@@ -9,7 +9,7 @@ owner:
   name: Zixuan Zhang
   avatar: Disney.jpg
 #  bio:
-  email: zzx140439@stu.xjtu.edu.cn
+  email: zhangzixuan23@mails.ucas.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
@@ -43,9 +43,9 @@ links:
   - title: Awards
     url: /awards/
   - title: Study Notes
-    url: /blogs/    
+    url: /study_notes/    
   - title: Daily Life
-    url: /hobbies/
+    url: /daily_life/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
