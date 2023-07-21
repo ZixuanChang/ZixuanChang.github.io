@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /awards/index.html
 title: Awards
 ---
@@ -70,6 +70,6 @@ Lastest Update: 21th July 2023
 
 |标题一|标题二|标题三|标题四|
 |- |:---|---:|:---:|
-|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|
+|<img src="https://zixuanchang.github.io/yinshuisiyuan.jpg" class="floatpic" width="480" height="100">|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|
 |xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|
 |xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx||
