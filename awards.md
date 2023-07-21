@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /awards/index.html
 title: Awards
 ---
