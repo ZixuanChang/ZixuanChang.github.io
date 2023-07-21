@@ -63,18 +63,19 @@ title: Awards
 
 Lastest Update: 21th July 2023
 
-|<img src="/honor/5.jpg">|11111111111111111111111111111|
-|--|----|
-<div style="column-count: 2">
-111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</br>
-</div>
+|<img src="/honor/5.jpg">|11111111111111111111111111111|  
+|--|----|  
 
-<div style=\"float: left; width: 50%;\">
-        <h4>左栏</h4>
-        <p><img src="/honor/5.jpg"></p>
-</div>
+<div style="column-count: 2">  
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</br>  
+</div>  
+
+<div style=\"float: left; width: 50%;\">  
+        <h4>左栏</h4>  
+        <p>1111</p>  
+</div>  
      
-<div style=\"margin-left: 50%;\">
-        <h4>右栏</h4>
-        <p>内容2</p>
-</div>
+<div style=\"margin-left: 50%;\">  
+        <h4>右栏</h4>  
+        <p>内容2</p>  
+</div>  
