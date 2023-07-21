@@ -71,7 +71,7 @@ Lastest Update: 21th July 2023
 
 <div style=\"float: left; width: 50%;\">
         <h4>左栏</h4>
-        <p>内容1</p>
+        <p><img src="/honor/5.jpg"></p>
 </div>
      
 <div style=\"margin-left: 50%;\">
