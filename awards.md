@@ -63,10 +63,6 @@ title: Awards
 
 Lastest Update: 21th July 2023
 
-<img src="https://zixuanchang.github.io/yinshuisiyuan.jpg" class="floatpic" width="480" height="360">
-<font color="red">这是红色字体</font>
-
-#### 1231331
 
 |<img src="https://zixuanchang.github.io/yinshuisiyuan.jpg">| |[**Liwen Zhao, Guilian liu*, Optimization of the catalyst service life based on the coupling of reactor and heat exchanger network, Chemical Engineering Science, 2022, 259, 117822.**](https://doi.org/10.1016/j.ijhydene.2022.05.052)|
 |:- |-|:------|
