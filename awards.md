@@ -63,24 +63,13 @@ title: Awards
 
 Lastest Update: 21th July 2023
 
-|<img src="/honor/5.jpg">|11111111111111111111111111111|  
-|--|----|  
-
-<div style="column-count: 2">  
-111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</br>  
-</div>  
-
-<div style=\"float: left; width: 50%;\">  
-        <h4>左栏</h4>  
-        <p>1111</p>  
-</div>  
-     
-<div style=\"margin-left: 50%;\">  
-        <h4>右栏</h4>  
-        <p>内容2</p>  
-</div>  
-
 <img src="https://zixuanchang.github.io/yinshuisiyuan.jpg" class="floatpic" width="480" height="360">
 <font color="red">这是红色字体</font>
 
 #### 1231331
+
+|标题一|标题二|标题三|标题四|
+|- |:---|---:|:---:|
+|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|
+|xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|xxxxxxxxxxxxxx|
+|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx|xxxxxxxxx||
