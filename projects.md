@@ -50,7 +50,7 @@ P.S., click the hyperlink title to access the source.<br>
 **Coming From**: National College Student Energy Conservation and Emission Reduction Competition  
 **Contributions**: Development of the softwear  
 **Award**: Excellence Award of Xi'an Jiaotong University  
-**Advisor**: Prof. Guilian Liu
+**Advisor**: [Prof. Guilian Liu](https://gr.xjtu.edu.cn/en/web/guilianliui/home)
 <center>
 <img src="/project/RSHEN/post.jpg">
 </center>
