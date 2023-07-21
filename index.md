@@ -13,7 +13,7 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/蔡汉霖
 <br>
 
 ## Education Background
-- **Sep 2023 - June 2026:** Chemical Engineering, Institute of Process Engineering, CAS (Master's Degree)
+- **Sep 2023 - June 2026:** Chemical Engineering, Institute of Process Engineering, Chinese Academy of Science (Master's Degree)
 - **Sep 2019 - July 2023:** Chemical Engineering, Xi'an Jiaotong University (Bachelor's Degree)
 
 
