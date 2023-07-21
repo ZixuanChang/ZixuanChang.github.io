@@ -6,7 +6,7 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
+Click the hyperlink title to access the source.<br>
 ## Graduate
 
 
