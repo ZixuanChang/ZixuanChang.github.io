@@ -5,11 +5,17 @@ title: Publications
 ---
 
 # Publications
+P.S., click the hyperlink title to access the source.
 
-Lastest Update: 3rd July 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
-## Undergrad Thesis
-
+## Journal Articles
+|<img src="https://zixuanchang.github.io/images/yinshuisiyuan.png">| |[**Liwen Zhao**, Guilian liu*, Optimization of the catalyst service life based on the coupling of reactor and heat exchanger network, Chemical Engineering Science, 2022, 259, 117822.](https://doi.org/10.1016/j.ijhydene.2022.05.052)|
+|:- |-|:------|
+| || | 
+---
+## Conference Proceedings
+---
+## Theses
+---
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
 
 ## Conference Paper
