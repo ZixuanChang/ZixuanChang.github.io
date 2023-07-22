@@ -9,7 +9,7 @@ Click the hyperlink title to access the source.
 
 ## Journal Articles
 
-|<img src="https://zixuanchang.github.io/images/yinshuisiyuan.png">| |[<font color="red">Liwen Zhao</font>, Guilian liu*, Optimization of the catalyst service life based on the coupling of reactor and heat exchanger network, Chemical Engineering Science, 2022, 259, 117822.](https://doi.org/10.1016/j.ijhydene.2022.05.052)|
+|<img src="https://zixuanchang.github.io/images/yinshuisiyuan.png">| |[<font color="red">Zixuan Zhang</font>, Guilian liu*, Multi-objective optimization of heat exchanger network with disturbances from decoupling perspective, Submit to journal.](https://doi.org/10.1016/j.ijhydene.2022.05.052)|
 |:- |-|:------|
 | || | 
 
@@ -18,21 +18,11 @@ Click the hyperlink title to access the source.
 ---
 ## Theses
 ---
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
 
-## Conference Paper
+|<img src="https://zixuanchang.github.io/project/HEN/post.PNG">| |[Multi-objective Modeling of HEN and Development of Optimization Software for Methanol Synthesis(Undergraduate)](https://https://zixuanchang.github.io/project/HEN/zzx-s_project.zip)<br>**Supervisor: Prof. Guilian Liu**|
+|:- |-|:------|
+| || | 
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
----
-
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
-## Working Manuscript
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)<br>
 
