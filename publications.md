@@ -19,7 +19,7 @@ Click the hyperlink title to access the source.
 ## Theses
 ---
 
-|<img src="https://zixuanchang.github.io/project/HEN/post.PNG">| |[Multi-objective Modeling of HEN and Development of Optimization Software for Methanol Synthesis(Undergraduate)](https://https://zixuanchang.github.io/project/HEN/zzx-s_project.zip)<br>**Supervisor: Prof. Guilian Liu**|
+|<img src="https://zixuanchang.github.io/project/HEN/post.PNG">| |[Multi-objective Modeling of HEN and Development of Optimization Software for Methanol Synthesis (Undergraduate)](https://https://zixuanchang.github.io/project/HEN/zzx-s_project.zip)<br>**Supervisor:** [Prof. Guilian Liu](https://gr.xjtu.edu.cn/en/web/guilianliui/home)|
 |:- |-|:------|
 | || | 
 
