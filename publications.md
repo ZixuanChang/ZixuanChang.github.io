@@ -9,7 +9,7 @@ Click the hyperlink title to access the source.
 
 ## Journal Articles
 
-|<img src="https://zixuanchang.github.io/article/graphical_abstruct.jpg">| |[<font color="red">Zixuan Zhang</font>,Zhao Liwen, Ibrahim Tera, Guilian liu*, Multi-objective optimization of heat exchanger network with disturbances based on draph theory and decoupling, Chemicial Engineering Science, Under Review.](https://zixuanchang.github.io/article/CES-D-23-02734.pdf)|
+|<img src="https://zixuanchang.github.io/article/graphical_abstruct.jpg">| |[<font color="red">Zixuan Zhang</font>,Zhao Liwen, Ibrahim Tera, Guilian liu*, Multi-objective optimization of heat exchanger network with disturbances based on graph theory and decoupling, <font color="red">Chemicial Engineering Science, Under Review.</font>](https://zixuanchang.github.io/article/CES-D-23-02734.pdf)|
 |:- |-|:------|
 | || | 
 
