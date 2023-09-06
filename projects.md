@@ -88,7 +88,7 @@ Click the hyperlink title to access the source.<br>
 #### [Preparation of a novel self-healing flexible electrolyte and its design and application in new concept flexible ultra-thin lithium batteries](https://zixuanchang.github.io/project/battery/zzx-s_project.zip)
 **Time**: November 2020 - June 2021  
 **Coming From**: National College Student Innovation and Entrepreneurship Training Project Funding and National College Student Energy Conservation and Emission Reduction Competition  
-**Contributions**: Experiment Design and Conduct
+**Contributions**: Experiment Design and Conduct 
 **Award**: Approved national level innovation project with a fund of ￥10000  
 **Advisor**: Prof. Mingtao Li  
 <center>
