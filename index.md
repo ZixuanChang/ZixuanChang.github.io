@@ -21,11 +21,15 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/ZZX_CV.pd
 - **Sep 2019 - July 2023:** Chemical Engineering, Xi'an Jiaotong University (Bachelor's Degree)
 <br>
 
-## Research Interests
+## Current Research 
 
 
-- Machine learning for process modeling and optomization
+- Robust ML modeling for simulation-based optimization
+- Explicit formulation of surrogate model
+- Application of reinforcement learning in simulation convergence
+
+## Expected Research Fields
+- Design and optimization of integrated energy systems
 - Intelligent decision-making based on game theory and reinforcement learning
-  
-  
+
  **My current research focuses on the approximation of simulation-based optimization with a machine learning approach. The related project is the development of simulation, optimization, and regulation technology for the preparation process of phosphoric acid.**
