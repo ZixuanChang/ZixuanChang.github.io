@@ -31,5 +31,6 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/ZZX_CV.pd
 ## Expected Research Fields
 - Design and optimization of integrated energy systems
 - Intelligent decision-making based on game theory and reinforcement learning
+- Global optimization algorithm
 
  **My current research focuses on the approximation of simulation-based optimization with a machine learning approach. The related project is the development of simulation, optimization, and regulation technology for the preparation process of phosphoric acid.**
