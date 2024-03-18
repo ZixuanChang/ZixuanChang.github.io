@@ -33,4 +33,4 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/ZZX_CV.pd
 - Intelligent decision-making based on game theory and reinforcement learning
 - Global optimization algorithm
 
- **My current research focuses on the approximation of simulation-based optimization with a machine learning approach. The related project is the development of simulation, optimization, and regulation technology for the preparation process of phosphoric acid.**
+ **My current project is the ptimization of process parameters for phosphoric acid production by dihydrate method, aimming at  increasing acid concentration.**
