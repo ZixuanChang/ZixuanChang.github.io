@@ -21,16 +21,19 @@ Here is **Zixuan Zhang (Victor, [张子轩](https://caihanlin.com/file/ZZX_CV.pd
 - **Sep 2019 - July 2023:** Chemical Engineering, Xi'an Jiaotong University (Bachelor's Degree)
 <br>
 
+## Research Interests
+- Energy & Sustainability
+- Learning 2 Optimize
+- Application of LLM in PSE
+
 ## Current Research 
 
+- Mechanism Data Hybrid Driven Process System Modeling
+- Derivative-based Algorithm for Optimization Embedded with Differentiable Machine Learning
+- Machine Learning Assisted NLP Global Optimization Algorithm
+- LLM-Driven Process Automatic Modeling and Optimization 
 
-- Robust ML modeling for simulation-based optimization
-- Explicit formulation of surrogate model
-- Application of reinforcement learning in simulation convergence
+## Current Project
+- Intelligent Driven Process System NLP Modeling and Global Optimization Algorithm
+- Hybrid modeling and optimization of wet phosphoric acid production
 
-## Expected Research Fields
-- Design and optimization of integrated energy systems
-- Intelligent decision-making based on game theory and reinforcement learning
-- Global optimization algorithm
-
- **My current project is the ptimization of process parameters for phosphoric acid production by dihydrate method, aimming at  increasing acid concentration.**
