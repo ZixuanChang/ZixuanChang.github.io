@@ -15,7 +15,7 @@ Click the hyperlink title to access the source.
 
 ---
 ## Conference Proceedings
-|<img src="https://zixuanchang.github.io/article/240725-ReLU-墙报.svg">| |[<font color="red">Zhang, Z.</font>, Song, X., Zeng, Y., Li, J., Wang, L., Xiao, X., 2024. Global optimization method and application based on ReLU neural network approximation. 2024 Process Big Data Forum, Yulin, China. ](https://zixuanchang.github.io/article/240724-ReLU-墙报.pdf)
+|<img src="https://zixuanchang.github.io/article/240725-ReLU-墙报.svg">| |[<font color="red">Zhang, Z.</font>, Song, X., Zeng, Y., Li, J., Wang, L., Xiao, X., 2024. Global optimization method and application based on ReLU neural network approximation. 2024 Process Big Data Forum, Yulin, China. ](https://zixuanchang.github.io/article/240724-ReLU-墙报.pdf)|
 |:- |-|:------|
 | || | 
 
