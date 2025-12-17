@@ -35,7 +35,11 @@ links:
   - title: Home
     url: /
   - title: CV
+<<<<<<< HEAD
     url: ./file/CV-Zixuan Zhang-en-D251208.pdf
+=======
+    url: ./file/CV-Zhang-D251008.pdf
+>>>>>>> 03bc9c7fa6a1af02b6f2f861ddfe6695d9b024dc
   - title: Publications
     url: /publications/
   - title: Projects
