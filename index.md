@@ -13,7 +13,7 @@ title: Home
 
 Here is **Zixuan Zhang (Victor, [张子轩](https://zixuanchang.github.io/file/CV-Zhang-D251008.pdf))**. I am a graduate student of University of Chinese Academy of Science, Institute of Process Engineering, majoring in **Chemical Engineering**. I am now supervised by [Prof. Xin Xiao](https://people.ucas.ac.cn/~0046355?language=en) in the[ Industrial Intelligence Optimization Research Group](http://mercgrsmr.ipe.ac.cn/xsdw/ktz/202204/t20220419_27305.html). Here is my [ ORCID ](https://orcid.org/0009-0006-7354-0499).
 
-**I am applying for a PhD position in 2026 Fall**, and here is [my CV](https://zixuanchang.github.io/file/CV-Zhang-D251008.pdf).
+**I am applying for a PhD position in 2026 Fall**, and here is [my CV](https://zixuanchang.github.io/file/CV-Zixuan Zhang-en-D251208.pdf).
 
 
 ## Education Background
