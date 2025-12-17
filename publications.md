@@ -9,7 +9,7 @@ Click the hyperlink title to access the source.
 
 ## Journal Articles
 
-| 论文配图 |  | 论文信息 |
+| |  |  |
 | :------: | :-: | :------- |
 | <img src="https://zixuanchang.github.io/article/graphical_abstruct.jpg" > |  | [<span style="color:red">Zhang, Z.</span>, Zhao, L., Tera, I., Liu, G., 2024. Multi-objective optimization of heat exchanger network with disturbances based on graph theory and decoupling. Chemical Engineering Science 287, 119763.](https://zixuanchang.github.io/article/1-s2.0-S0009250924000630-main.pdf)<br>[https://doi.org/10.1016/j.ces.2024.119763](https://doi.org/10.1016/j.ces.2024.119763) |
 | <img src="https://zixuanchang.github.io/article/TOC.png" > |  | [<span style="color:red">Zhang, Z.</span>, et al., 2025. Surrogate-Assisted Optimization for Real-World Wet-Process Phosphoric Acid Production. Industrial & Engineering Chemistry Research, 64, 50, 24138–24155.](https://zixuanchang.github.io/article/surrogate-assisted-optimization-for-real-world-wet-process-phosphoric-acid-production.pdf)<br>[https://doi.org/10.1021/acs.iecr.5c03286](https://doi.org/10.1021/acs.iecr.5c03286) |
